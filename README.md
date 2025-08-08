@@ -5,3 +5,5 @@ A battleship board game I created as a school project. When the game starts, the
 ## Running the Program
 
 All code is contained in the main.cpp file. Simply download main.cpp and run it in any C++ compiler.
+
+* Side note: The code is so big for relatively simple game because I made it to be unbreakable by user's input. 
